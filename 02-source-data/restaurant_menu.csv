@@ -1,0 +1,245 @@
+﻿id,name,category,price,currency,description,rate,percent,size,packing,vat,image_demo_status,use_image_in_demo,image_files
+98436366,باقالی پلو,بیرون بر,200000.0,IRT,,0.0,0.0,,0.0,10,real_photo_shared_review_match_before_use,False,
+98432588,دلستر خانواده,بیرون بر,122000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98432430,دلستر قوطی استوایی,بیرون بر,98000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98432465,دلستر قوطی کلاسیک ,بیرون بر,98000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98432378,دلستر قوطی لیمو,بیرون بر,98000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97794814,باقالی پلو با ماهیچه,غذای اصلی,1900000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\غذای-اصلی\باقالی-پلو-با-ماهیچه-97794814-1.jpg
+97795639,با قالی پلو با مرغ,غذای اصلی,545000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\غذای-اصلی\با-قالی-پلو-با-مرغ-97795639-1.png
+97796430,چلو خورشت قورمه سبزی,غذای اصلی,430000.0,IRT,,0.0,0.0,,0.0,10,real_photo_shared_review_match_before_use,False,
+97796220,چلو خورشت قیمه بادمجان,غذای اصلی,430000.0,IRT,,0.0,0.0,,0.0,10,real_photo_shared_review_match_before_use,False,
+97796040,چلو خورشت قیمه سیب زمینی,غذای اصلی,430000.0,IRT,,0.0,0.0,,0.0,10,real_photo_shared_review_match_before_use,False,
+97796861,چلو مرغ مخصوص,غذای اصلی,520000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97795408,زرشک پلو با مرغ,غذای اصلی,530000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\غذای-اصلی\زرشک-پلو-با-مرغ-97795408-1.jpg
+178680299,جوجه اقتصادی,کبابها,220000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97791499,جوجه کباب با استخوان,کبابها,600000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\کبابها\جوجه-کباب-با-استخوان-97791499-1.jpg
+97791217,جوجه کباب بدون استخوان,کبابها,385000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\کبابها\جوجه-کباب-بدون-استخوان-97791217-1.jpg
+97792003,جوجه کباب ترش,کبابها,395000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\کبابها\جوجه-کباب-ترش-97792003-1.png
+97791780,جوجه کباب مصری,کبابها,530000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\کبابها\جوجه-کباب-مصری-97791780-1.jpg
+97784664,کباب بختیاری,کبابها,850000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\کبابها\کباب-بختیاری-97784664-1.png
+97784802,کباب برگ مخصوص,کبابها,1250000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\کبابها\کباب-برگ-مخصوص-97784802-1.png
+97784950,کباب تبریزی,کبابها,500000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\کبابها\کباب-تبریزی-97784950-1.png
+111419890,کباب سلطانی,کبابها,1490000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\کبابها\کباب-سلطانی-111419890-1.jpg
+97785532,کباب کوبیده دو سیخ,کبابها,465000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\کبابها\کباب-کوبیده-دو-سیخ-97785532-1.jpg
+97785157,کباب لقمه مخصوص,کبابها,440000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\کبابها\کباب-لقمه-مخصوص-97785157-1.jpg
+97785308,کباب لقمه نگین دار,کبابها,495000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\کبابها\کباب-لقمه-نگین-دار-97785308-1.jpg
+97784544,کباب وزیری,کبابها,490000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\کبابها\کباب-وزیری-97784544-1.png
+150399196,کوبیده اقتصادی,کبابها,300000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97790913,کوبیده تک سیخ,کبابها,235000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97803345,باقالی پلو,چلوها,200000.0,IRT,,0.0,0.0,,0.0,10,real_photo_shared_review_match_before_use,False,
+126398399,ته چین,چلوها,220000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97803205,چلو کره,چلوها,185000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\چلوها\چلو-کره-97803205-1.png
+97803007,کته,چلوها,185000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\چلوها\کته-97803007-1.png
+97802752,خوراک ماهیچه,خوراک ها,1700000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\خوراک-ها\خوراک-ماهیچه-97802752-1.jpg
+97799375,خوراک مرغ,خوراک ها,350000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\خوراک-ها\خوراک-مرغ-97799375-1.jpg
+97802517,خورشت  قورمه سبزی,خوراک ها,225000.0,IRT,,0.0,0.0,,0.0,10,real_photo_shared_review_match_before_use,False,
+97802224,خورشت قیمه بادمجان,خوراک ها,225000.0,IRT,,0.0,0.0,,0.0,10,real_photo_shared_review_match_before_use,False,
+97801874,خورشت قیمه سیب زمینی,خوراک ها,225000.0,IRT,,0.0,0.0,,0.0,10,real_photo_shared_review_match_before_use,False,
+97799601,شنیسل مرغ,خوراک ها,430000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\خوراک-ها\شنیسل-مرغ-97799601-1.jpg
+97794088,ماهی قزل الا سوخاری,دریایی,650000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\دریایی\ماهی-قزل-الا-سوخاری-97794088-1.jpg
+97793863,ماهی قزل الا کبابی,دریایی,650000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+133523904,اردو,سالادها,350000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97777319,سالاد سزار با مرغ سوخاری,سالادها,560000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97777262,سالاد سزار با مرغ گریل,سالادها,560000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\سالادها\سالاد-سزار-با-مرغ-گریل-97777262-1.jpg
+97777585,سالاد شیرازی,سالادها,105000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\سالادها\سالاد-شیرازی-97777585-1.png
+97777445,سالاد فصل,سالادها,150000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\سالادها\سالاد-فصل-97777445-1.png
+97777119,سالاد مخصوص اورین,سالادها,814000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97775845,زیتون پرورده,پیش غذا,130000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\پیش-غذا\زیتون-پرورده-97775845-1.png
+97775671,زیتون ساده,پیش غذا,110000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\پیش-غذا\زیتون-ساده-97775671-1.png
+97772693,کشک بادمجان,پیش غذا,210000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\پیش-غذا\کشک-بادمجان-97772693-1.jpg
+97773082,ماست خیار وگردو,پیش غذا,120000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\پیش-غذا\ماست-خیار-وگردو-97773082-1.png
+97775528,ماست ساده,پیش غذا,85000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\پیش-غذا\ماست-ساده-97775528-1.png
+97772890,ماست موسیر,پیش غذا,90000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\پیش-غذا\ماست-موسیر-97772890-1.png
+97772780,میرزا قاسمی,پیش غذا,210000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\پیش-غذا\میرزا-قاسمی-97772780-1.png
+97772482,سوپ روز,سوپ ها,110000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\سوپ-ها\سوپ-روز-97772482-1.png
+97807971,چلو اکبر جوجه,غذای روز,700000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97807734,چلو کباب دیگی,غذای روز,465000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97808953,عدس پلو,غذای روز,430000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97808320,لوبیا پلو,غذای روز,280000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97809493,ماکارانی ویژه,غذای روز,250000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97808661,مرغ بادمجان با برنج,غذای روز,470000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98390679,پیتزا پاتیس پپرونی,پیتزاها,460000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\پیتزاها\پیتزا-پاتیس-پپرونی-98390679-1.jpg
+98390070,پیتزا پاتیس چیکن الفردو,پیتزاها,630000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\پیتزاها\پیتزا-پاتیس-چیکن-الفردو-98390070-1.jpg
+98389857,پیتزا پاتیس رست بیف,پیتزاها,790000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\پیتزاها\پیتزا-پاتیس-رست-بیف-98389857-1.jpg
+98390812,پیتزا پاتیس سبزیجات,پیتزاها,440000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\پیتزاها\پیتزا-پاتیس-سبزیجات-98390812-1.jpg
+98390429,پیتزا پاتیس مخلوط,پیتزاها,480000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\پیتزاها\پیتزا-پاتیس-مخلوط-98390429-1.jpg
+98389218,پیتزا پنجره ای پپرونی,پیتزاها,680000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\پیتزاها\پیتزا-پنجره-ای-پپرونی-98389218-1.jpg
+98388668,پیتزا پنجره ای چیکن الفردو,پیتزاها,820000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\پیتزاها\پیتزا-پنجره-ای-چیکن-الفردو-98388668-1.jpg
+98388464,پیتزا پنجره ای رست بیف,پیتزاها,1080000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\پیتزاها\پیتزا-پنجره-ای-رست-بیف-98388464-1.jpg
+98389571,پیتزا پنجره ای سبزیجات,پیتزاها,620000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\پیتزاها\پیتزا-پنجره-ای-سبزیجات-98389571-1.jpg
+98388935,پیتزا پنجره ای مخلوط,پیتزاها,690000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\پیتزاها\پیتزا-پنجره-ای-مخلوط-98388935-1.jpg
+97818111,استیک مرغ,بشقاب ها,780000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\بشقاب-ها\استیک-مرغ-97818111-1.jpg
+97817911,بشقاب سوخاری,بشقاب ها,660000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\بشقاب-ها\بشقاب-سوخاری-97817911-1.jpg
+195061748,بشقاب مزه,بشقاب ها,1730000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+156816944,تست بیکن,بشقاب ها,310000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+156816858,تست پپرونی,بشقاب ها,260000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97818500,تست گوشت,بشقاب ها,390000.0,IRT,,0.0,0.0,,0.0,10,real_photo_shared_review_match_before_use,False,
+97818315,تست مرغ,بشقاب ها,360000.0,IRT,,0.0,0.0,,0.0,10,real_photo_shared_review_match_before_use,False,
+156817402,پنینی بیکن,پنینی ها,720000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97816293,پنینی سبزیجات,پنینی ها,470000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97815932,پنینی گوشت و خامه,پنینی ها,950000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97813933,پنینی مرغ پستو,پنینی ها,810000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97813561,پنینی مرغ خامه,پنینی ها,800000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97812774,پاستا الفردو,پاستا ها,650000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\پاستا-ها\پاستا-الفردو-97812774-1.jpg
+97812959,پاستا پستو,پاستا ها,770000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\پاستا-ها\پاستا-پستو-97812959-1.jpg
+97813293,پاستا سبزیجات,پاستا ها,450000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\پاستا-ها\پاستا-سبزیجات-97813293-1.jpg
+98387875,ساندویچ رست بیف,ساندویج ها,690000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\ساندویج-ها\ساندویچ-رست-بیف-98387875-1.jpg
+98388092,ساندویچ مرغ هالوپینو,ساندویج ها,365000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\ساندویج-ها\ساندویچ-مرغ-هالوپینو-98388092-1.jpg
+98387683,ساندویچ هات داگ,ساندویج ها,260000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\ساندویج-ها\ساندویچ-هات-داگ-98387683-1.jpg
+97819386,سیب الفردو,سیب زمینی,435000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\سیب-زمینی\سیب-الفردو-97819386-1.jpg
+97819123,سیب چدار,سیب زمینی,310000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\سیب-زمینی\سیب-چدار-97819123-1.jpg
+97819004,سیب زمینی ساده,سیب زمینی,220000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\سیب-زمینی\سیب-زمینی-ساده-97819004-1.jpg
+97819684,سیب مخصوص,سیب زمینی,550000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\سیب-زمینی\سیب-مخصوص-97819684-1.jpg
+97810858,برگر کلاسیک,برگرها,590000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\برگرها\برگر-کلاسیک-97810858-1.png
+97811756,چیز برگر,برگرها,750000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\برگرها\چیز-برگر-97811756-1.png
+97812110,دبل برگر,برگرها,1100000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\برگرها\دبل-برگر-97812110-1.png
+97811982,زینگر برگر,برگرها,460000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+156833580,ماشروم برگر,برگرها,760000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97811546,هالو پینو برگر,برگرها,660000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\برگرها\هالو-پینو-برگر-97811546-1.png
+98400048,چای ترش اورین,چای و دمنوش,130000.0,IRT,چای ترش زرشک دارچین,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98398918,چای سبز,چای و دمنوش,105000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98398716,چای سیاه,چای و دمنوش,90000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98401589,چای کرک,چای و دمنوش,180000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98399157,چای ماسالا,چای و دمنوش,190000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98400806,چای مراکشی,چای و دمنوش,140000.0,IRT,چای سبز عسل دارچین نعنا,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98400295,دمنوش ارامش,چای و دمنوش,140000.0,IRT,سیب گل گاو زبون بید مشک,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\چای-و-دمنوش\دمنوش-ارامش-98400295-1.jpg
+98400947,دمنوش انتی ویروس,چای و دمنوش,140000.0,IRT,سیب عناب اویشن,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98401312,دمنوش پرشین رز,چای و دمنوش,135000.0,IRT,گل محمدی و هل,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98401737,دمنوش تنفس,چای و دمنوش,140000.0,IRT,اکالیپتوس - نعنا-,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98400426,دمنوش سیب دارچین,چای و دمنوش,130000.0,IRT,سیب دارچین گل رز,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98400108,دمنوش کلینر,چای و دمنوش,135000.0,IRT,اویشن عسل زنجبیل لیمو ترش,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+150620322,شیر داغ,چای و دمنوش,80000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97780037,اب معدنی کوچک,نوشیدنی ها,20000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97781468,دلستر خانواده,نوشیدنی ها,122000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97780591,دلستر قوطی استوایی,نوشیدنی ها,98000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97781023,دلستر قوطی کلاسیک,نوشیدنی ها,98000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97780387,دلستر قوطی لیمو,نوشیدنی ها,98000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97779258,دوغ,نوشیدنی ها,53900.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97779927,دوغ خانواده,نوشیدنی ها,50000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+116381109,دوغ نیم لیتری,نوشیدنی ها,50000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97779140,نوشابه بطری اسپرایت,نوشیدنی ها,50000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97779036,نوشابه  بطری زرد,نوشیدنی ها,50000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97778670,نوشابه بطری مشکی,نوشیدنی ها,50000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97781243,نوشابه خانواده,نوشیدنی ها,110000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97778315,نوشابه قوطی اسپرایت,نوشیدنی ها,81500.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97778187,نوشابه قوطی زرد,نوشیدنی ها,81500.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97778494,نوشابه قوطی زیرو,نوشیدنی ها,81500.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+97778140,نوشابه قوطی مشکی,نوشیدنی ها,81500.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+110778513,آیس مینت,اسموتی وماکتل,230000.0,IRT,اسپرسو --نعنا --شیر-شکلات,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+174917179,اب گازدار,اسموتی وماکتل,50000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+180257927,اب میوه فصل,اسموتی وماکتل,125000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98407684,استراچا,اسموتی وماکتل,225000.0,IRT,توت فرنگی-شیر-ماچا,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+104937234,اورنج کافی ,اسموتی وماکتل,225000.0,IRT,آب پرتقال-قهوه,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98408241,بلک چری,اسموتی وماکتل,140000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98410268,پاردایس,اسموتی وماکتل,220000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98410151,تروپیکال,اسموتی وماکتل,235000.0,IRT,انبه-موهیتو,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+110778670,رد موهیتو ,اسموتی وماکتل,255000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+189673741,طالبی بستنی,اسموتی وماکتل,180000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+110778604,ککهیتو ,اسموتی وماکتل,245000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+112619319,لیموناد ,اسموتی وماکتل,210000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98409406,مارگاریتا,اسموتی وماکتل,225000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98408884,مانگو بری,اسموتی وماکتل,220000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98407947,مانگو ماچا,اسموتی وماکتل,215000.0,IRT,انبه-موز-ماچا,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+110778730,موهیتو ,اسموتی وماکتل,220000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+150689620,اسپرسو دبل,قهوه گرم نرمال و اسپشیال,135000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+104059305,اسپرسو دبل اسپشیال,قهوه گرم نرمال و اسپشیال,135000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+150535185,اسپشیال چاکلت,قهوه گرم نرمال و اسپشیال,200000.0,IRT,دارک چاکلت+ موز + لوتوس و...,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98425061,امریکانو,قهوه گرم نرمال و اسپشیال,145000.0,IRT,یک شات اسپرسو لانگو + آب جوش,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98424823,امریکانو اسپیشیال ,قهوه گرم نرمال و اسپشیال,145000.0,IRT,یک شات اسپرسو عربیکا + آب جوش,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98425299,پاورشات ,قهوه گرم نرمال و اسپشیال,155000.0,IRT,اسپرسو --عسل,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+150535000,قهوه ترک ,قهوه گرم نرمال و اسپشیال,135000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+150535096,قهوه فرانسه ,قهوه گرم نرمال و اسپشیال,160000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+150535028,قهوه یونانی ,قهوه گرم نرمال و اسپشیال,160000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98424438,کاپوچینو,قهوه گرم نرمال و اسپشیال,160000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98424242,کاپوچینو اسپشیال ,قهوه گرم نرمال و اسپشیال,160000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98423512,کارامل ماکیاتو,قهوه گرم نرمال و اسپشیال,185000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98423032,کارامل ماکیاتو اسپشیال,قهوه گرم نرمال و اسپشیال,185000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+156836781,کورتادو,قهوه گرم نرمال و اسپشیال,130000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98424703,لاته,قهوه گرم نرمال و اسپشیال,175000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98424561,لاته اسپیشیال ,قهوه گرم نرمال و اسپشیال,175000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98423999,لاته با انواع سیروپ ,قهوه گرم نرمال و اسپشیال,195000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98423756,لاته با انواع سیروپ  اسپشیال,قهوه گرم نرمال و اسپشیال,195000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98422425,لوندر لته ,قهوه گرم نرمال و اسپشیال,175000.0,IRT,شیر -قهوه-عصاره اسطخدوس,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98422597,ماچا لته ,قهوه گرم نرمال و اسپشیال,165000.0,IRT,ماچا + شیر,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98422777,موکا ,قهوه گرم نرمال و اسپشیال,185000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98422854,موکا اسپشیال,قهوه گرم نرمال و اسپشیال,185000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+150535141,هات چاکلت ,قهوه گرم نرمال و اسپشیال,145000.0,IRT,پودر هات چاکلت و شیر..,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98397929,افوگاتو,قهوه سرد,210000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98398353,افوگاتو زعفران,قهوه سرد,220000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+150693815,ایس امریکانو,قهوه سرد,145000.0,IRT,یک شات اسپرسو لانگو + آب + یخ,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98396269,ایس امریکانو اسپشیال,قهوه سرد,145000.0,IRT,یک شات اسپرسو عربیکا + آب + یخ,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+150693377,ایس کارامل,قهوه سرد,185000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98396839,ایس کارامل اسپشیال,قهوه سرد,185000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+150692197,ایس لاته,قهوه سرد,175000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98396372,ایس لاته اسپشیال,قهوه سرد,175000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\قهوه-سرد\ایس-لاته-اسپشیال-98396372-1.png
+162345249,ایس لاته با سیروپ اضافه,قهوه سرد,185000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+155192061,ایس ماچا لاته,قهوه سرد,150000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98396953,ایس موکا,قهوه سرد,185000.0,IRT,,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\قهوه-سرد\ایس-موکا-98396953-1.png
+150680175,ایس موکا اسپشیال,قهوه سرد,185000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+161500569,اسکوپ توت فرنگی,شیک ها,40000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+166052574,اسکوپ زعفرانی,شیک ها,50000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+161500530,اسکوپ شکلات,شیک ها,40000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+161500464,اسکوپ وانیل,شیک ها,40000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98403066,شیک اسپرسو,شیک ها,270000.0,IRT,بستنی وانیل + اسپرسو,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\شیک-ها\شیک-اسپرسو-98403066-1.png
+98404047,شیک انبه توت فرنگی,شیک ها,205000.0,IRT,بستنی-انبه تازه-توت فرنگی,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\شیک-ها\شیک-انبه-توت-فرنگی-98404047-1.png
+98405802,شیک اورئو,شیک ها,230000.0,IRT,بستنی وانیل + بیسکوئیت اورئو,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98405924,شیک بادام زمینی,شیک ها,275000.0,IRT,بستنی وانیل + کره بادام زمینی,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+105318924,شیک توت فرنگی,شیک ها,275000.0,IRT,بستنی وانیل + توت فرنگی,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\شیک-ها\شیک-توت-فرنگی-105318924-1.png
+98404519,شیک دراگون,شیک ها,320000.0,IRT,بستنی-موز-اسپرسو-چهار مغز,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+105319138,شیک شکلات,شیک ها,210000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+151386580,شیک شیر موز,شیک ها,285000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98403854,شیک شی وی,شیک ها,295000.0,IRT,بستنی-موز-کیوی,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\شیک-ها\شیک-شی-وی-98403854-1.png
+98404778,شیک لوتوس,شیک ها,275000.0,IRT,بستنی وانیل + بیسکویت لوتوس,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\شیک-ها\شیک-لوتوس-98404778-1.png
+98404193,شیک موز شکلات,شیک ها,285000.0,IRT,بستنی شکلات  + موز,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\شیک-ها\شیک-موز-شکلات-98404193-1.png
+98404326,شیک نوتلا,شیک ها,265000.0,IRT,بستنی وانیل + نوتلا,0.0,0.0,,0.0,10,real_product_photo,True,C:\Users\Reza\Desktop\Avrin_Demo_Kit\01-assets\menu-food\شیک-ها\شیک-نوتلا-98404326-1.png
+98406046,شیک وانیل,شیک ها,205000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+201828527,تیرامیسو,کیک ها,160000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98410767,چیز کیک,کیک ها,180000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+103743795,کاپ کیک,کیک ها,130000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+143920751,کیک پسته ای,کیک ها,180000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98410494,کیک روز,کیک ها,180000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98410648,کیک شکلاتی,کیک ها,180000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+156151512,کیک کارامل,کیک ها,180000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+181333635,کیک نوتلا,کیک ها,180000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+186473464,ساندویج ژامبون,غذای پرسنلی,0.0,IRT,,0.0,0.0,,0.0,0,shared_generic_placeholder_do_not_use,False,
+175911478,کشک بادمجان,غذای پرسنلی,0.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+176805810,گوجه بادمجان,غذای پرسنلی,0.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+176135095,میرزا قاسمی,غذای پرسنلی,0.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+188900487,هات داگ پرسنلی,غذای پرسنلی,0.0,IRT,,0.0,0.0,,0.0,0,shared_generic_placeholder_do_not_use,False,
+98426051,ادامس دارچین,قلیان,340000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98426244,استوایی,قلیان,340000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98426136,انبه,قلیان,340000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98428392,انگور نعناع,قلیان,340000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98428159,بشقاب مزه,قلیان,95000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98425988,بلوبری,قلیان,340000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98426616,پرتغال خامه,قلیان,340000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98426458,پرتغال نعناع,قلیان,340000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98428087,تعویض سری,قلیان,190000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98425418,دوسیب,قلیان,340000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98425473,دوسیب البالو ,قلیان,340000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98426985,دوسیب نعناع,قلیان,340000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98426869,شاتوت بستنی ,قلیان,340000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98426311,شب های مسکو,قلیان,340000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98427064,شیخ مانی,قلیان,340000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98428005,گواوا,قلیان,340000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98425902,لاو,قلیان,340000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98425952,لیدی,قلیان,340000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+98426800,لیمو نعناع,قلیان,340000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+192576724,ورودی نظر سنجی,اضافات,10000000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+150525734,شربت بهار نارنج زعفران,شربت ها,120000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+150525708,شربت خیار سکنجبین,شربت ها,120000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+156819126,چلو خورشت فسنجان با مرغ,منو ویژه رستوران,440000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+156820906,سالاد یونانی,منو ویژه رستوران,370000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+156820334,شیرین پلو با مرغ,منو ویژه رستوران,620000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+156819437,مرصع پلو,منو ویژه رستوران,660000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+157193177,اب انار,منو ویژه کافه,180000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+157193073,اب پرتقال,منو ویژه کافه,180000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+156826130,اسموتی رژیمی,منو ویژه کافه,150000.0,IRT,کیوی،کرفس،خیار، لیمو,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+156824893,افتر,منو ویژه کافه,155000.0,IRT,کیوی ،سیب، نعنا,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+156824539,دیس میوه فصل,منو ویژه کافه,280000.0,IRT,پرتقال، انار،کیوی،سیب،نارنگی،خرمالو,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+156825902,زمستان سرخ,منو ویژه کافه,185000.0,IRT,انار، پرتقال، لیمو,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+156825204,گلدن سی,منو ویژه کافه,210000.0,IRT,پرتقال ، نارنگی ،لیمو شیرین,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+150400527,چلو خورشت قورمه,بدون دسته بندی,230000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+158441181,چلوکوبیده گروه ,بدون دسته بندی,300000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+185052896,شلنگ دایمی قلیان,بدون دسته بندی,490000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,
+150401149,ماکارانی,بدون دسته بندی,220000.0,IRT,,0.0,0.0,,0.0,10,shared_generic_placeholder_do_not_use,False,

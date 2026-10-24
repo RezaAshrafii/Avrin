@@ -1,0 +1,6 @@
+import data from './site-data.json';
+export type Asset={id:string;src:string;alt:string;width:number;height:number;fit:'cover'|'contain';sha256:string};
+export type Room={slug:string;name:string;tier:'standard'|'vip';capacity:number;bedText:string;description:string;heroAssetId:string;gallery:Asset[];nightlyPrice:null;sourceUrl:string;contentStatus:string};
+export type Product={id:number;sourceName:string;displayName:string;sourceCategoryId:number;categoryName:string;description:string;priceToman:number|null;visibility:'public'|'review';image:Asset|null;photoStatus:string;sourceOrder:number};
+export type Category={id:number;name:string;slug:string;group:string;sourceOrder:number;visibility:string;count:number};
+export const site=data as unknown as {asOf:string;hotel:{name:string;shortName:string;address:string;phoneDisplay:string;phoneTel:string;mobileDisplay:string;mobileTel:string;email:string;restaurantPhone:string;restaurantPhoneVerified:boolean;coordinates:{lat:number;lon:number};mapsUrl:string;instagram:string;breakfastHours:string;restaurantHours:string};assets:Asset[];rooms:Room[];products:Product[];categories:Category[];publicProducts:Product[];publicCategories:Category[]};

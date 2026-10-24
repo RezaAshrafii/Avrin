@@ -1,0 +1,2 @@
+import Link from 'next/link';
+export default function NotFound(){return <main className="notFound container"><span className="eyebrow">۴۰۴ · هتل اورین</span><h1>این صفحه پیدا نشد</h1><p>ممکن است نشانی تغییر کرده باشد.</p><div className="heroButtons"><Link className="button" href="/fa">صفحهٔ اصلی</Link><Link className="button buttonGhost" href="/fa/rooms">اتاق‌ها</Link><Link className="button buttonGhost" href="/fa/contact">تماس</Link></div></main>}

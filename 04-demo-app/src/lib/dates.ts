@@ -1,0 +1,11 @@
+import * as jalaali from 'jalaali-js';
+export type JDate={jy:number;jm:number;jd:number};
+export const todayJ=(now=new Date()):JDate=>{const p=new Intl.DateTimeFormat('en-u-ca-persian-nu-latn',{timeZone:'Asia/Tehran',year:'numeric',month:'numeric',day:'numeric'}).formatToParts(now);return {jy:+p.find(x=>x.type==='year')!.value,jm:+p.find(x=>x.type==='month')!.value,jd:+p.find(x=>x.type==='day')!.value};};
+export const toIso=({jy,jm,jd}:JDate)=>{const g=jalaali.toGregorian(jy,jm,jd);return `${g.gy}-${String(g.gm).padStart(2,'0')}-${String(g.gd).padStart(2,'0')}`;};
+export const fromIso=(s:string):JDate|null=>{const [gy,gm,gd]=s.split('-').map(Number);if(!gy||!gm||!gd)return null;const j=jalaali.toJalaali(gy,gm,gd);return jalaali.isValidJalaaliDate(j.jy,j.jm,j.jd)?j:null;};
+export const addJ=(d:JDate,n:number):JDate=>{const g=jalaali.toGregorian(d.jy,d.jm,d.jd);const day=new Date(Date.UTC(g.gy,g.gm-1,g.gd+n));const j=jalaali.toJalaali(day.getUTCFullYear(),day.getUTCMonth()+1,day.getUTCDate());return j;};
+export const dayNumber=(s:string)=>{const [y,m,d]=s.split('-').map(Number);return Date.UTC(y,m-1,d)/86400000;};
+export const nights=(a:string,b:string)=>dayNumber(b)-dayNumber(a);
+export const fmtJ=(d:JDate)=>`${new Intl.NumberFormat('fa-IR').format(d.jd)} ${['فروردین','اردیبهشت','خرداد','تیر','مرداد','شهریور','مهر','آبان','آذر','دی','بهمن','اسفند'][d.jm-1]} ${new Intl.NumberFormat('fa-IR').format(d.jy)}`;
+export const monthDays=(jy:number,jm:number)=>jalaali.jalaaliMonthLength(jy,jm);
+export const firstWeekday=(jy:number,jm:number)=>{const iso=toIso({jy,jm,jd:1});const [y,m,d]=iso.split('-').map(Number);return new Date(Date.UTC(y,m-1,d)).getUTCDay();};

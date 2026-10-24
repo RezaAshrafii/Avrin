@@ -1,0 +1,811 @@
+{
+  "createdAt": "2026-10-24T12:52:09.095Z",
+  "base": "http://127.0.0.1:3000",
+  "scenarios": [
+    {
+      "name": "home",
+      "route": "/fa",
+      "mobile": false,
+      "title": "هتل اورین تهران | اقامت، کافه و رستوران",
+      "h1": "اقامت در اورین،در قلب تهران",
+      "dir": "rtl",
+      "lang": "fa",
+      "viewport": 1440,
+      "docWidth": 1440,
+      "bodyWidth": 1440,
+      "brokenImages": [],
+      "images": 10,
+      "dialogImages": 0,
+      "dialogText": "",
+      "checks": {
+        "status": 200,
+        "noHorizontalOverflow": true,
+        "rtl": true,
+        "imagesLoad": true,
+        "homeH1": true
+      }
+    },
+    {
+      "name": "home",
+      "route": "/fa",
+      "mobile": true,
+      "title": "هتل اورین تهران | اقامت، کافه و رستوران",
+      "h1": "اقامت در اورین،در قلب تهران",
+      "dir": "rtl",
+      "lang": "fa",
+      "viewport": 390,
+      "docWidth": 390,
+      "bodyWidth": 390,
+      "brokenImages": [],
+      "images": 10,
+      "dialogImages": 0,
+      "dialogText": "",
+      "checks": {
+        "status": 200,
+        "noHorizontalOverflow": true,
+        "rtl": true,
+        "imagesLoad": true
+      }
+    },
+    {
+      "name": "home-jalali-calendar",
+      "checks": {
+        "calendarVisible": true,
+        "noNativeDateInput": true,
+        "datesSelected": true,
+        "checkoutCannotEqualCheckin": true,
+        "formPassesDates": true
+      }
+    },
+    {
+      "name": "home-jalali-calendar-mobile",
+      "checks": {
+        "noHorizontalOverflow": true,
+        "calendarVisible": true
+      }
+    },
+    {
+      "name": "rooms",
+      "route": "/fa/rooms",
+      "mobile": false,
+      "title": "هتل اورین تهران | اقامت، کافه و رستوران",
+      "h1": "اتاق‌های اورین",
+      "dir": "rtl",
+      "lang": "fa",
+      "viewport": 1440,
+      "docWidth": 1440,
+      "bodyWidth": 1440,
+      "brokenImages": [],
+      "images": 9,
+      "dialogImages": 0,
+      "dialogText": "",
+      "checks": {
+        "status": 200,
+        "noHorizontalOverflow": true,
+        "rtl": true,
+        "imagesLoad": true
+      }
+    },
+    {
+      "name": "room-vip",
+      "route": "/fa/rooms/doublevip-room",
+      "mobile": false,
+      "title": "هتل اورین تهران | اقامت، کافه و رستوران",
+      "h1": "دوتخته دبل VIP",
+      "dir": "rtl",
+      "lang": "fa",
+      "viewport": 1440,
+      "docWidth": 1440,
+      "bodyWidth": 1440,
+      "brokenImages": [],
+      "images": 5,
+      "dialogImages": 0,
+      "dialogText": "",
+      "checks": {
+        "status": 200,
+        "noHorizontalOverflow": true,
+        "rtl": true,
+        "imagesLoad": true
+      }
+    },
+    {
+      "name": "restaurant",
+      "route": "/fa/restaurant",
+      "mobile": false,
+      "title": "هتل اورین تهران | اقامت، کافه و رستوران",
+      "h1": "کافه و رستوراناورین",
+      "dir": "rtl",
+      "lang": "fa",
+      "viewport": 1440,
+      "docWidth": 1440,
+      "bodyWidth": 1440,
+      "brokenImages": [],
+      "images": 9,
+      "dialogImages": 0,
+      "dialogText": "",
+      "checks": {
+        "status": 200,
+        "noHorizontalOverflow": true,
+        "rtl": true,
+        "imagesLoad": true
+      }
+    },
+    {
+      "name": "menu-steak",
+      "route": "/fa/restaurant/menu?category=plates&product=97818111",
+      "mobile": false,
+      "title": "هتل اورین تهران | اقامت، کافه و رستوران",
+      "h1": "منوی کافه و رستوران",
+      "dir": "rtl",
+      "lang": "fa",
+      "viewport": 1440,
+      "docWidth": 1440,
+      "bodyWidth": 1440,
+      "brokenImages": [],
+      "images": 3,
+      "dialogImages": 1,
+      "dialogText": "بشقاب‌های ویژه\nاستیک مرغ\n۷۸۰٬۰۰۰ تومان\nافزودن به سبد نمونه\nاین سفارش در رستوران ثبت نمی‌شود.",
+      "checks": {
+        "status": 200,
+        "noHorizontalOverflow": true,
+        "rtl": true,
+        "imagesLoad": true,
+        "steakPhoto": true
+      }
+    },
+    {
+      "name": "menu-mezze-no-photo",
+      "route": "/fa/restaurant/menu?category=plates&product=195061748",
+      "mobile": false,
+      "title": "هتل اورین تهران | اقامت، کافه و رستوران",
+      "h1": "منوی کافه و رستوران",
+      "dir": "rtl",
+      "lang": "fa",
+      "viewport": 1440,
+      "docWidth": 1440,
+      "bodyWidth": 1440,
+      "brokenImages": [],
+      "images": 2,
+      "dialogImages": 0,
+      "dialogText": "اورین\nتصویر واقعی برای این قلم در دادهٔ فعلی موجود نیست.\nبشقاب‌های ویژه\nبشقاب مزه\n۱٬۷۳۰٬۰۰۰ تومان\nافزودن به سبد نمونه\nاین سفارش در رستوران ثبت نمی‌شود.",
+      "checks": {
+        "status": 200,
+        "noHorizontalOverflow": true,
+        "rtl": true,
+        "imagesLoad": true,
+        "mezzeHasNoPhoto": true
+      }
+    },
+    {
+      "name": "booking",
+      "route": "/fa/book?room=single-room",
+      "mobile": false,
+      "title": "هتل اورین تهران | اقامت، کافه و رستوران",
+      "h1": "برنامه‌ریزی اقامت",
+      "dir": "rtl",
+      "lang": "fa",
+      "viewport": 1440,
+      "docWidth": 1440,
+      "bodyWidth": 1440,
+      "brokenImages": [],
+      "images": 0,
+      "dialogImages": 0,
+      "dialogText": "",
+      "checks": {
+        "status": 200,
+        "noHorizontalOverflow": true,
+        "rtl": true,
+        "imagesLoad": true
+      }
+    },
+    {
+      "name": "contact",
+      "route": "/fa/contact",
+      "mobile": false,
+      "title": "هتل اورین تهران | اقامت، کافه و رستوران",
+      "h1": "تماس و مسیر دسترسی",
+      "dir": "rtl",
+      "lang": "fa",
+      "viewport": 1440,
+      "docWidth": 1440,
+      "bodyWidth": 1440,
+      "brokenImages": [],
+      "images": 1,
+      "dialogImages": 0,
+      "dialogText": "",
+      "checks": {
+        "status": 200,
+        "noHorizontalOverflow": true,
+        "rtl": true,
+        "imagesLoad": true
+      }
+    },
+    {
+      "name": "contact",
+      "route": "/fa/contact",
+      "mobile": true,
+      "title": "هتل اورین تهران | اقامت، کافه و رستوران",
+      "h1": "تماس و مسیر دسترسی",
+      "dir": "rtl",
+      "lang": "fa",
+      "viewport": 390,
+      "docWidth": 390,
+      "bodyWidth": 390,
+      "brokenImages": [],
+      "images": 1,
+      "dialogImages": 0,
+      "dialogText": "",
+      "checks": {
+        "status": 200,
+        "noHorizontalOverflow": true,
+        "rtl": true,
+        "imagesLoad": true
+      }
+    },
+    {
+      "name": "cart",
+      "route": "/fa/restaurant/cart",
+      "title": "هتل اورین تهران | اقامت، کافه و رستوران",
+      "h1": "سبد نمونه",
+      "dir": "rtl",
+      "lang": "fa",
+      "viewport": 390,
+      "docWidth": 390,
+      "bodyWidth": 390,
+      "bodyText": "پیش‌نمایش تعاملی · رزرو و سفارش نهایی انجام نمی‌شود\nAVRIN\nهتل اورین تهران\nبرنامه‌ریزی اقامت\nخانه\nرستوران\nسبد نمونه\nسفارش آزمایشی\nسبد نمونه\n\nاین سبد فقط در همین مرورگر ذخیره می‌شود و به رستوران ارسال نمی‌شود.\n\nبشقاب ها\nاستیک مرغ\n۷۸۰٬۰۰۰ تومان\n۱\nحذف\nپاستا ها\nپاستا آلفردو\n۶۵۰٬۰۰۰ تومان\n۱\nحذف\nجمع اقلام\nمجموع نمونه\n۱٬۴۳۰٬۰۰۰ تومان\nمالیات، ارسال و هزینهٔ خدمات در این جمع محاسبه نشده‌اند؛ شرایط شمول نیازمند تأیید مجموعه است.\nادامه به نتیجهٔ آزمایشی\nبازگشت به منو\nنسخهٔ نمایشی\nاطلاعات و قیمت‌ها snapshot هستند؛ پیش از استفادهٔ واقعی با مجموعه هماهنگ کنید.\nAVRIN\nهتل اورین تهران\n\nاقامت شهری در محدودهٔ میدان انقلاب تهران.\n\nاتاق‌ها\nکافه و رستوران\nامکانات\nتماس و مسیر\nشرایط اقامت\nحریم خصوصی\nبرای هماهنگی\n02166431661-6\nتهران، میدان انقلاب\n© هتل اورین تهران · نسخهٔ نمایشی\nبازگشت به ابتدای صفحه ↑\nاقامت\nمنو\nسبد\n2\nتماس",
+      "checks": {
+        "status": 200,
+        "noHorizontalOverflow": true,
+        "rtl": true,
+        "correctTotal": true,
+        "realItems": true
+      }
+    },
+    {
+      "name": "order-preview",
+      "route": "/fa/restaurant/order-preview",
+      "checks": {
+        "demoNotice": true,
+        "neverClaimsPlaced": true
+      }
+    },
+    {
+      "name": "booking-flow",
+      "route": "/fa/book",
+      "checks": {
+        "capacityRejected": true,
+        "reviewStep": true,
+        "demoResult": true
+      }
+    },
+    {
+      "name": "gallery",
+      "route": "/fa/gallery",
+      "h1": "تصویرهایی از اورین",
+      "width": 390,
+      "viewport": 390,
+      "productDialog": false,
+      "checks": {
+        "status": true,
+        "noHorizontalOverflow": true
+      }
+    },
+    {
+      "name": "about",
+      "route": "/fa/about",
+      "h1": "دربارهٔ هتل اورین",
+      "width": 390,
+      "viewport": 390,
+      "productDialog": false,
+      "checks": {
+        "status": true,
+        "noHorizontalOverflow": true
+      }
+    },
+    {
+      "name": "facilities",
+      "route": "/fa/facilities",
+      "h1": "امکانات و خدمات",
+      "width": 390,
+      "viewport": 390,
+      "productDialog": false,
+      "checks": {
+        "status": true,
+        "noHorizontalOverflow": true
+      }
+    },
+    {
+      "name": "faq",
+      "route": "/fa/faq",
+      "h1": "پرسش‌های متداول",
+      "width": 390,
+      "viewport": 390,
+      "productDialog": false,
+      "checks": {
+        "status": true,
+        "noHorizontalOverflow": true
+      }
+    },
+    {
+      "name": "policy",
+      "route": "/fa/policy",
+      "h1": "راهنمای شرایط اقامت",
+      "width": 390,
+      "viewport": 390,
+      "productDialog": false,
+      "checks": {
+        "status": true,
+        "noHorizontalOverflow": true
+      }
+    },
+    {
+      "name": "privacy",
+      "route": "/fa/privacy",
+      "h1": "حریم خصوصی",
+      "width": 390,
+      "viewport": 390,
+      "productDialog": false,
+      "checks": {
+        "status": true,
+        "noHorizontalOverflow": true
+      }
+    },
+    {
+      "name": "booking-confirmation-empty",
+      "route": "/fa/book/confirmation",
+      "h1": "هنوز برنامه‌ای برای نمایش ندارید",
+      "width": 390,
+      "viewport": 390,
+      "productDialog": false,
+      "checks": {
+        "status": true,
+        "noHorizontalOverflow": true,
+        "safeDirectEntry": true
+      }
+    },
+    {
+      "name": "menu-hidden-review",
+      "route": "/fa/restaurant/menu?product=192576724",
+      "h1": "منوی کافه و رستوران",
+      "width": 390,
+      "viewport": 390,
+      "productDialog": false,
+      "checks": {
+        "status": true,
+        "noHorizontalOverflow": true,
+        "hiddenFromDirectProductLink": true
+      }
+    },
+    {
+      "name": "not-found",
+      "route": "/fa/not-a-real-page",
+      "h1": "این صفحه پیدا نشد",
+      "width": 390,
+      "viewport": 390,
+      "productDialog": false,
+      "checks": {
+        "status": true,
+        "noHorizontalOverflow": true,
+        "notFoundStatus": true
+      }
+    }
+  ],
+  "consoleErrors": [],
+  "pageErrors": [],
+  "externalRequests": [],
+  "interactionChecks": [
+    {
+      "name": "cart-add-feedback",
+      "checks": {
+        "addFeedbackVisible": true,
+        "cartActionVisible": true,
+        "continueShoppingCloses": true
+      }
+    },
+    {
+      "name": "cart-remove-item",
+      "checks": {
+        "removeVisible": true,
+        "removalWorked": true
+      }
+    },
+    {
+      "name": "room-filters",
+      "checks": {
+        "vipFilter": true,
+        "capacityFilter": true
+      }
+    },
+    {
+      "name": "gallery-filter",
+      "checks": {
+        "filtersGallery": true
+      }
+    },
+    {
+      "name": "gallery-lightbox",
+      "checks": {
+        "opens": true,
+        "escapeCloses": true
+      }
+    },
+    {
+      "name": "faq-accordion",
+      "checks": {
+        "expands": true,
+        "answerVisible": true
+      }
+    },
+    {
+      "name": "product-dialog",
+      "checks": {
+        "queryOpens": true,
+        "escapeCloses": true
+      }
+    },
+    {
+      "name": "menu-category-layout",
+      "checks": {
+        "compactCategories": true,
+        "categoriesDoNotScroll": true,
+        "productsScroll": true,
+        "categoryFilterWorks": true
+      }
+    },
+    {
+      "name": "mobile-navigation",
+      "checks": {
+        "opens": true,
+        "navigates": true
+      }
+    },
+    {
+      "name": "copy-address",
+      "checks": {
+        "successMessage": true,
+        "clearFallbackMessage": true
+      }
+    }
+  ],
+  "roomDetails": [
+    {
+      "slug": "single-room",
+      "status": 200,
+      "headline": "اتاق یک‌تخته",
+      "passed": true
+    },
+    {
+      "slug": "twin-bed-for-one-person",
+      "status": 200,
+      "headline": "دوتخته برای یک نفر",
+      "passed": true
+    },
+    {
+      "slug": "twinbeds-room",
+      "status": 200,
+      "headline": "دوتخته توئین",
+      "passed": true
+    },
+    {
+      "slug": "double-room",
+      "status": 200,
+      "headline": "دوتخته دبل",
+      "passed": true
+    },
+    {
+      "slug": "triple-room",
+      "status": 200,
+      "headline": "سه‌تخته",
+      "passed": true
+    },
+    {
+      "slug": "twinbedsvip-room",
+      "status": 200,
+      "headline": "دوتخته توئین VIP",
+      "passed": true
+    },
+    {
+      "slug": "doublevip-room",
+      "status": 200,
+      "headline": "دوتخته دبل VIP",
+      "passed": true
+    },
+    {
+      "slug": "triplevip-room",
+      "status": 200,
+      "headline": "سه‌تخته VIP",
+      "passed": true
+    }
+  ],
+  "responsiveChecks": [
+    {
+      "route": "/fa",
+      "width": 360,
+      "viewport": 360,
+      "passed": true
+    },
+    {
+      "route": "/fa/restaurant",
+      "width": 360,
+      "viewport": 360,
+      "passed": true
+    },
+    {
+      "route": "/fa/restaurant/menu?category=plates&product=195061748",
+      "width": 360,
+      "viewport": 360,
+      "passed": true
+    },
+    {
+      "route": "/fa/book",
+      "width": 360,
+      "viewport": 360,
+      "passed": true
+    },
+    {
+      "route": "/fa/contact",
+      "width": 360,
+      "viewport": 360,
+      "passed": true
+    }
+  ],
+  "redirects": [
+    {
+      "route": "/",
+      "status": 200,
+      "finalUrl": "/fa",
+      "expected": "/fa",
+      "passed": true
+    },
+    {
+      "route": "/fa/facalities",
+      "status": 200,
+      "finalUrl": "/fa/facilities",
+      "expected": "/fa/facilities",
+      "passed": true
+    },
+    {
+      "route": "/fa/blog",
+      "status": 200,
+      "finalUrl": "/fa/about",
+      "expected": "/fa/about",
+      "passed": true
+    },
+    {
+      "route": "/en",
+      "status": 200,
+      "finalUrl": "/fa",
+      "expected": "/fa",
+      "passed": true
+    },
+    {
+      "route": "/virtual/index.htm",
+      "status": 200,
+      "finalUrl": "/fa/gallery",
+      "expected": "/fa/gallery",
+      "passed": true
+    }
+  ],
+  "homeStatus": 200,
+  "homeLinks": [
+    "/fa/rooms",
+    "/fa/restaurant",
+    "/fa/gallery",
+    "/fa/about",
+    "/fa",
+    "/fa/contact",
+    "/fa/book",
+    "/fa/rooms",
+    "/fa/restaurant",
+    "/fa/about",
+    "/fa/contact",
+    "/fa/rooms/doublevip-room",
+    "/fa/rooms/twinbeds-room",
+    "/fa/rooms/triple-room",
+    "/fa/rooms",
+    "/fa/restaurant/menu",
+    "/fa/restaurant",
+    "/fa/facilities",
+    "/fa/gallery",
+    "/fa/gallery",
+    "/fa/gallery",
+    "/fa/gallery",
+    "tel:+982166431661",
+    "/fa/contact",
+    "https://www.google.com/maps/dir/?api=1&destination=35.70206906079886,51.39048134973817",
+    "https://www.google.com/maps/dir/?api=1&destination=35.70206906079886,51.39048134973817",
+    "/fa/rooms",
+    "tel:+982166431661",
+    "/fa",
+    "/fa/rooms",
+    "/fa/restaurant",
+    "/fa/facilities",
+    "/fa/contact",
+    "/fa/policy",
+    "/fa/privacy",
+    "tel:+982166431661",
+    "https://www.google.com/maps/dir/?api=1&destination=35.70206906079886,51.39048134973817",
+    "/fa",
+    "/fa/rooms",
+    "/fa/restaurant/menu",
+    "/fa/restaurant/cart",
+    "tel:+982166431661"
+  ],
+  "linkChecks": [
+    {
+      "href": "/fa",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa",
+      "passed": true
+    },
+    {
+      "href": "/fa/about",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa/about",
+      "passed": true
+    },
+    {
+      "href": "/fa/book",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa/book",
+      "passed": true
+    },
+    {
+      "href": "/fa/book?room=double-room",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa/book?room=double-room",
+      "passed": true
+    },
+    {
+      "href": "/fa/book?room=doublevip-room",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa/book?room=doublevip-room",
+      "passed": true
+    },
+    {
+      "href": "/fa/book?room=single-room",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa/book?room=single-room",
+      "passed": true
+    },
+    {
+      "href": "/fa/book?room=triple-room",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa/book?room=triple-room",
+      "passed": true
+    },
+    {
+      "href": "/fa/book?room=triplevip-room",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa/book?room=triplevip-room",
+      "passed": true
+    },
+    {
+      "href": "/fa/book?room=twin-bed-for-one-person",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa/book?room=twin-bed-for-one-person",
+      "passed": true
+    },
+    {
+      "href": "/fa/book?room=twinbeds-room",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa/book?room=twinbeds-room",
+      "passed": true
+    },
+    {
+      "href": "/fa/book?room=twinbedsvip-room",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa/book?room=twinbedsvip-room",
+      "passed": true
+    },
+    {
+      "href": "/fa/contact",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa/contact",
+      "passed": true
+    },
+    {
+      "href": "/fa/facilities",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa/facilities",
+      "passed": true
+    },
+    {
+      "href": "/fa/gallery",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa/gallery",
+      "passed": true
+    },
+    {
+      "href": "/fa/policy",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa/policy",
+      "passed": true
+    },
+    {
+      "href": "/fa/privacy",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa/privacy",
+      "passed": true
+    },
+    {
+      "href": "/fa/restaurant",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa/restaurant",
+      "passed": true
+    },
+    {
+      "href": "/fa/restaurant/cart",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa/restaurant/cart",
+      "passed": true
+    },
+    {
+      "href": "/fa/restaurant/menu",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa/restaurant/menu",
+      "passed": true
+    },
+    {
+      "href": "/fa/restaurant/menu?category=cold-coffee",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa/restaurant/menu?category=cold-coffee",
+      "passed": true
+    },
+    {
+      "href": "/fa/rooms",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa/rooms",
+      "passed": true
+    },
+    {
+      "href": "/fa/rooms/double-room",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa/rooms/double-room",
+      "passed": true
+    },
+    {
+      "href": "/fa/rooms/doublevip-room",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa/rooms/doublevip-room",
+      "passed": true
+    },
+    {
+      "href": "/fa/rooms/single-room",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa/rooms/single-room",
+      "passed": true
+    },
+    {
+      "href": "/fa/rooms/triple-room",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa/rooms/triple-room",
+      "passed": true
+    },
+    {
+      "href": "/fa/rooms/triplevip-room",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa/rooms/triplevip-room",
+      "passed": true
+    },
+    {
+      "href": "/fa/rooms/twin-bed-for-one-person",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa/rooms/twin-bed-for-one-person",
+      "passed": true
+    },
+    {
+      "href": "/fa/rooms/twinbeds-room",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa/rooms/twinbeds-room",
+      "passed": true
+    },
+    {
+      "href": "/fa/rooms/twinbedsvip-room",
+      "status": 200,
+      "finalUrl": "http://127.0.0.1:3000/fa/rooms/twinbedsvip-room",
+      "passed": true
+    }
+  ],
+  "passed": true
+}

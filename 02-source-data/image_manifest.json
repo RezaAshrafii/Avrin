@@ -1,0 +1,1050 @@
+[
+  {
+    "url": "http://127.0.0.1/files/MultiMedia__HomeMain__1722927784626.jpg",
+    "page_paths": [
+      "/fa",
+      "/en"
+    ],
+    "alt": "Testing",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\hotel\\Testing-bd64be88ddcf.jpg",
+    "status": "downloaded",
+    "bytes": 6374478,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/MultiMedia__HomeMain__1722927784626.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Slide__669e6963c00f8baaf071eb09__1723543740398.jpg",
+    "page_paths": [
+      "/fa",
+      "/en"
+    ],
+    "alt": "اسلاید یک",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\hotel\\اسلاید-یک-ce8cb1d115e5.jpg",
+    "status": "downloaded",
+    "bytes": 108902,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Slide__669e6963c00f8baaf071eb09__1723543740398.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Slide__669e6a1fc00f8baaf071eb3f__1723543786925.jpg",
+    "page_paths": [
+      "/fa",
+      "/en"
+    ],
+    "alt": "اسلاید دو",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\hotel\\اسلاید-دو-f87a6ea57a4e.jpg",
+    "status": "downloaded",
+    "bytes": 140311,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Slide__669e6a1fc00f8baaf071eb3f__1723543786925.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Slide__669e6b54c00f8baaf071eb8b__1723544566408.jpg",
+    "page_paths": [
+      "/fa",
+      "/en"
+    ],
+    "alt": "اسلاید سه",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\hotel\\اسلاید-سه-f256a37c6451.jpg",
+    "status": "downloaded",
+    "bytes": 196017,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Slide__669e6b54c00f8baaf071eb8b__1723544566408.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Overview__66c1e6b713a96f3f11efd2e2__1723983560194.jpg",
+    "page_paths": [
+      "/fa",
+      "/en"
+    ],
+    "alt": "هتل اورین",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\hotel\\هتل-اورین-aeb631025bfa.jpg",
+    "status": "downloaded",
+    "bytes": 12282135,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Overview__66c1e6b713a96f3f11efd2e2__1723983560194.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Overview__66c1e6f913a96f3f11efd54d__1723983628968.jpg",
+    "page_paths": [
+      "/fa",
+      "/en"
+    ],
+    "alt": "کافه و رستوران اورین",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\restaurant\\کافه-و-رستوران-اورین-81f6e7118889.jpg",
+    "status": "downloaded",
+    "bytes": 147703,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Overview__66c1e6f913a96f3f11efd54d__1723983628968.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__669e6c4dc00f8baaf071ebe2__1723444259725.jpg",
+    "page_paths": [
+      "/fa",
+      "/en",
+      "/fa/book",
+      "/fa/rooms",
+      "/fa/rooms/twinbeds-room",
+      "/fa/rooms/double-room",
+      "/fa/rooms/triple-room",
+      "/fa/rooms/twinbedsvip-room",
+      "/fa/rooms/doublevip-room",
+      "/fa/rooms/triplevip-room"
+    ],
+    "alt": "اتاق یک تخته",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\اتاق-یک-تخته-e432a8c2898a.jpg",
+    "status": "downloaded",
+    "bytes": 17371751,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__669e6c4dc00f8baaf071ebe2__1723444259725.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__670635683e0432680a90108e__1728462000783.jpg",
+    "page_paths": [
+      "/fa",
+      "/en",
+      "/fa/book",
+      "/fa/rooms",
+      "/fa/rooms/single-room",
+      "/fa/rooms/twinbeds-room",
+      "/fa/rooms/double-room",
+      "/fa/rooms/triple-room",
+      "/fa/rooms/twinbedsvip-room",
+      "/fa/rooms/doublevip-room",
+      "/fa/rooms/triplevip-room"
+    ],
+    "alt": "دو تخته برای یک نفر",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\دو-تخته-برای-یک-نفر-e7b0ba50a09e.jpg",
+    "status": "downloaded",
+    "bytes": 846240,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__670635683e0432680a90108e__1728462000783.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__669e6d20c00f8baaf071ec1b__1723445709681.jpg",
+    "page_paths": [
+      "/fa",
+      "/en",
+      "/fa/book",
+      "/fa/rooms",
+      "/fa/rooms/single-room",
+      "/fa/rooms/double-room",
+      "/fa/rooms/triple-room",
+      "/fa/rooms/twinbedsvip-room",
+      "/fa/rooms/doublevip-room",
+      "/fa/rooms/triplevip-room"
+    ],
+    "alt": "دو تخته توئین",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\دو-تخته-توئین-944e00f45544.jpg",
+    "status": "downloaded",
+    "bytes": 17837345,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__669e6d20c00f8baaf071ec1b__1723445709681.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__669e6d8ac00f8baaf071ec4e__1723447688463.jpg",
+    "page_paths": [
+      "/fa",
+      "/en",
+      "/fa/book",
+      "/fa/rooms",
+      "/fa/rooms/single-room",
+      "/fa/rooms/twinbeds-room",
+      "/fa/rooms/triple-room",
+      "/fa/rooms/twinbedsvip-room",
+      "/fa/rooms/doublevip-room",
+      "/fa/rooms/triplevip-room"
+    ],
+    "alt": "اتاق دوتخته دبل",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\اتاق-دوتخته-دبل-4dd7129c1ef7.jpg",
+    "status": "downloaded",
+    "bytes": 17335010,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__669e6d8ac00f8baaf071ec4e__1723447688463.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__66bb1b0d13a96f3f11ecb391__1724060061756.jpg",
+    "page_paths": [
+      "/fa",
+      "/en",
+      "/fa/book",
+      "/fa/rooms",
+      "/fa/rooms/single-room",
+      "/fa/rooms/twinbeds-room",
+      "/fa/rooms/double-room",
+      "/fa/rooms/twinbedsvip-room",
+      "/fa/rooms/doublevip-room",
+      "/fa/rooms/triplevip-room"
+    ],
+    "alt": "اتاق سه تخته",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\اتاق-سه-تخته-c78d457213ea.jpg",
+    "status": "downloaded",
+    "bytes": 19907237,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__66bb1b0d13a96f3f11ecb391__1724060061756.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__66bdca7613a96f3f11edd103__1723714505973.jpg",
+    "page_paths": [
+      "/fa",
+      "/en",
+      "/fa/book",
+      "/fa/rooms",
+      "/fa/rooms/single-room",
+      "/fa/rooms/twinbeds-room",
+      "/fa/rooms/double-room",
+      "/fa/rooms/triple-room",
+      "/fa/rooms/doublevip-room",
+      "/fa/rooms/triplevip-room"
+    ],
+    "alt": "دو تخته توئین vip",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\دو-تخته-توئین-vip-a288e704f220.jpg",
+    "status": "downloaded",
+    "bytes": 197116,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__66bdca7613a96f3f11edd103__1723714505973.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__66bdc03913a96f3f11edc8c6__1723712779729.jpg",
+    "page_paths": [
+      "/fa",
+      "/en",
+      "/fa/book",
+      "/fa/rooms",
+      "/fa/rooms/single-room",
+      "/fa/rooms/twinbeds-room",
+      "/fa/rooms/double-room",
+      "/fa/rooms/triple-room",
+      "/fa/rooms/twinbedsvip-room",
+      "/fa/rooms/triplevip-room"
+    ],
+    "alt": "اتاق دوتخته دبل vip",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\اتاق-دوتخته-دبل-vip-24c6f3e8b0fb.jpg",
+    "status": "downloaded",
+    "bytes": 218905,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__66bdc03913a96f3f11edc8c6__1723712779729.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__66bdcdc213a96f3f11edda47__1723715376053.jpg",
+    "page_paths": [
+      "/fa",
+      "/en",
+      "/fa/book",
+      "/fa/rooms",
+      "/fa/rooms/single-room",
+      "/fa/rooms/twinbeds-room",
+      "/fa/rooms/double-room",
+      "/fa/rooms/triple-room",
+      "/fa/rooms/twinbedsvip-room",
+      "/fa/rooms/doublevip-room"
+    ],
+    "alt": "اتاق سه تخته vip",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\اتاق-سه-تخته-vip-1d8af415e5ea.jpg",
+    "status": "downloaded",
+    "bytes": 206466,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__66bdcdc213a96f3f11edda47__1723715376053.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/MultiMedia__Restaurants__1722928376104.jpg",
+    "page_paths": [
+      "/fa",
+      "/en"
+    ],
+    "alt": "رستوران های هتل اورین",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\restaurant\\رستوران-های-هتل-اورین-0b53d4a44f14.jpg",
+    "status": "downloaded",
+    "bytes": 112206,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/MultiMedia__Restaurants__1722928376104.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Gallery__669e6dd3c00f8baaf071ec7f__1723545032255.jpg",
+    "page_paths": [
+      "/fa",
+      "/en",
+      "/fa/gallery"
+    ],
+    "alt": "عکس یک",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\gallery\\عکس-یک-e866fd6386ee.jpg",
+    "status": "downloaded",
+    "bytes": 230410,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Gallery__669e6dd3c00f8baaf071ec7f__1723545032255.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Gallery__669e6dd7c00f8baaf071ec84__1723544851437.jpg",
+    "page_paths": [
+      "/fa",
+      "/en",
+      "/fa/gallery"
+    ],
+    "alt": "عکس دو",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\gallery\\عکس-دو-5272491cb00f.jpg",
+    "status": "downloaded",
+    "bytes": 197116,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Gallery__669e6dd7c00f8baaf071ec84__1723544851437.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Gallery__669e6ddbc00f8baaf071ec89__1723544911136.jpg",
+    "page_paths": [
+      "/fa",
+      "/en",
+      "/fa/gallery"
+    ],
+    "alt": "عکس سه",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\gallery\\عکس-سه-da8d66533755.jpg",
+    "status": "downloaded",
+    "bytes": 165754,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Gallery__669e6ddbc00f8baaf071ec89__1723544911136.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Gallery__669e6ddfc00f8baaf071ec8e__1723544935941.jpg",
+    "page_paths": [
+      "/fa",
+      "/en",
+      "/fa/gallery"
+    ],
+    "alt": "عکس چهار",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\gallery\\عکس-چهار-098bcdc96125.jpg",
+    "status": "downloaded",
+    "bytes": 10583230,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Gallery__669e6ddfc00f8baaf071ec8e__1723544935941.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Gallery__669e6de4c00f8baaf071ec93__1723544949874.jpg",
+    "page_paths": [
+      "/fa",
+      "/en",
+      "/fa/gallery"
+    ],
+    "alt": "عکس پنج",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\gallery\\عکس-پنج-1f39a82c2d75.jpg",
+    "status": "downloaded",
+    "bytes": 6374478,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Gallery__669e6de4c00f8baaf071ec93__1723544949874.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Gallery__669e6de8c00f8baaf071ec98__1723544961853.jpg",
+    "page_paths": [
+      "/fa",
+      "/en",
+      "/fa/gallery"
+    ],
+    "alt": "عکس شش",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\gallery\\عکس-شش-97f8f795d083.jpg",
+    "status": "downloaded",
+    "bytes": 8862294,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Gallery__669e6de8c00f8baaf071ec98__1723544961853.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Gallery__669e6dedc00f8baaf071ec9d__1723544976195.jpg",
+    "page_paths": [
+      "/fa",
+      "/en",
+      "/fa/gallery"
+    ],
+    "alt": "عکس هفت",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\gallery\\عکس-هفت-f51a40e8375a.jpg",
+    "status": "downloaded",
+    "bytes": 17907907,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Gallery__669e6dedc00f8baaf071ec9d__1723544976195.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/MultiMedia__joinClub__1723545463077.jpg",
+    "page_paths": [
+      "/fa",
+      "/en"
+    ],
+    "alt": "join the club",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\hotel\\join-the-club-748da15e8a0e.jpg",
+    "status": "downloaded",
+    "bytes": 14025213,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/MultiMedia__joinClub__1723545463077.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Distance__66a1f075e3575e8f277c2006__function getTime() { [native code] }.jpg",
+    "page_paths": [
+      "/fa",
+      "/en"
+    ],
+    "alt": "فرودگاه مهرآباد",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\hotel\\فرودگاه-مهرآباد-e95791b7cf5a.jpg",
+    "status": "downloaded",
+    "bytes": 6959,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Distance__66a1f075e3575e8f277c2006__function getTime() { [native code] }.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Distance__66a1f080e3575e8f277c2057__function getTime() { [native code] }.jpg",
+    "page_paths": [
+      "/fa",
+      "/en"
+    ],
+    "alt": "ایستگاه راه آهن تهران",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\hotel\\ایستگاه-راه-آهن-تهران-8d5c3b4a4878.jpg",
+    "status": "downloaded",
+    "bytes": 12006,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Distance__66a1f080e3575e8f277c2057__function getTime() { [native code] }.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Distance__66a1f087e3575e8f277c20a8__function getTime() { [native code] }.jpg",
+    "page_paths": [
+      "/fa",
+      "/en"
+    ],
+    "alt": "ایستگاه مترو شهری انقلاب",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\hotel\\ایستگاه-مترو-شهری-انقلاب-26f513829708.jpg",
+    "status": "downloaded",
+    "bytes": 11746,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Distance__66a1f087e3575e8f277c20a8__function getTime() { [native code] }.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/MultiMedia__BlogsMain__1721896464840.png",
+    "page_paths": [
+      "/fa/blog"
+    ],
+    "alt": "وبلاگ",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\other\\وبلاگ-e8b406669301.png",
+    "status": "downloaded",
+    "bytes": 490692,
+    "content_type": "image/png",
+    "fetch_url": "https://hotelavrin.ir/files/MultiMedia__BlogsMain__1721896464840.png"
+  },
+  {
+    "url": "http://127.0.0.1/files/MultiMedia__ContactMain__1728116914240.jpg",
+    "page_paths": [
+      "/fa/contact"
+    ],
+    "alt": "تماس",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\other\\تماس-97441ae2608e.jpg",
+    "status": "downloaded",
+    "bytes": 59529,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/MultiMedia__ContactMain__1728116914240.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/MultiMedia__FacalitiesMain__1723460116435.jpg",
+    "page_paths": [
+      "/fa/facalities"
+    ],
+    "alt": "امکانات",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\other\\امکانات-91448003ab2e.jpg",
+    "status": "downloaded",
+    "bytes": 14623849,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/MultiMedia__FacalitiesMain__1723460116435.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Facility__66a1edf7e3575e8f277c1a8d__1723460429280.jpg",
+    "page_paths": [
+      "/fa/facalities"
+    ],
+    "alt": "بوفه سلف سرویس صبحانه",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\restaurant\\بوفه-سلف-سرویس-صبحانه-e65190344d0e.jpg",
+    "status": "downloaded",
+    "bytes": 204113,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Facility__66a1edf7e3575e8f277c1a8d__1723460429280.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Facility__66a1edf7e3575e8f277c1a8d__1723460434451.jpg",
+    "page_paths": [
+      "/fa/facalities"
+    ],
+    "alt": "بوفه سلف سرویس صبحانه",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\restaurant\\بوفه-سلف-سرویس-صبحانه-ee72df8a0d47.jpg",
+    "status": "downloaded",
+    "bytes": 253378,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Facility__66a1edf7e3575e8f277c1a8d__1723460434451.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Facility__66a1edf7e3575e8f277c1a8d__1724061604747.jpg",
+    "page_paths": [
+      "/fa/facalities"
+    ],
+    "alt": "بوفه سلف سرویس صبحانه",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\restaurant\\بوفه-سلف-سرویس-صبحانه-6b5dc297e344.jpg",
+    "status": "downloaded",
+    "bytes": 112056,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Facility__66a1edf7e3575e8f277c1a8d__1724061604747.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Facility__66a1edf7e3575e8f277c1a8d__1724061970275.jpg",
+    "page_paths": [
+      "/fa/facalities"
+    ],
+    "alt": "بوفه سلف سرویس صبحانه",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\restaurant\\بوفه-سلف-سرویس-صبحانه-d65f0d7c33e2.jpg",
+    "status": "downloaded",
+    "bytes": 416231,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Facility__66a1edf7e3575e8f277c1a8d__1724061970275.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Facility__66a1edf7e3575e8f277c1a8d__1724061975055.jpg",
+    "page_paths": [
+      "/fa/facalities"
+    ],
+    "alt": "بوفه سلف سرویس صبحانه",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\restaurant\\بوفه-سلف-سرویس-صبحانه-88ffbca9438f.jpg",
+    "status": "downloaded",
+    "bytes": 293504,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Facility__66a1edf7e3575e8f277c1a8d__1724061975055.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Facility__66a1edf7e3575e8f277c1a8d__1724061980052.jpg",
+    "page_paths": [
+      "/fa/facalities"
+    ],
+    "alt": "بوفه سلف سرویس صبحانه",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\restaurant\\بوفه-سلف-سرویس-صبحانه-6666cc5e3b59.jpg",
+    "status": "downloaded",
+    "bytes": 209299,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Facility__66a1edf7e3575e8f277c1a8d__1724061980052.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Facility__66a1ee79e3575e8f277c1b40__1723462926225.jpg",
+    "page_paths": [
+      "/fa/facalities"
+    ],
+    "alt": "کافه و رستوران اورین",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\restaurant\\کافه-و-رستوران-اورین-03d4a25278b8.jpg",
+    "status": "downloaded",
+    "bytes": 164352,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Facility__66a1ee79e3575e8f277c1b40__1723462926225.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Facility__66a1ee79e3575e8f277c1b40__1723462932884.jpg",
+    "page_paths": [
+      "/fa/facalities"
+    ],
+    "alt": "کافه و رستوران اورین",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\restaurant\\کافه-و-رستوران-اورین-79f0634778ba.jpg",
+    "status": "downloaded",
+    "bytes": 147703,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Facility__66a1ee79e3575e8f277c1b40__1723462932884.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Facility__66a1ee79e3575e8f277c1b40__1723462939191.jpg",
+    "page_paths": [
+      "/fa/facalities"
+    ],
+    "alt": "کافه و رستوران اورین",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\restaurant\\کافه-و-رستوران-اورین-146051e67e1b.jpg",
+    "status": "downloaded",
+    "bytes": 196017,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Facility__66a1ee79e3575e8f277c1b40__1723462939191.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Facility__66a1ee79e3575e8f277c1b40__1723462951836.jpg",
+    "page_paths": [
+      "/fa/facalities"
+    ],
+    "alt": "کافه و رستوران اورین",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\restaurant\\کافه-و-رستوران-اورین-fe52c6946c05.jpg",
+    "status": "downloaded",
+    "bytes": 230410,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Facility__66a1ee79e3575e8f277c1b40__1723462951836.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/MultiMedia__FaqMain__1728116984996.jpeg",
+    "page_paths": [
+      "/fa/faq"
+    ],
+    "alt": "سوالات متداول",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\other\\سوالات-متداول-2127451759a0.jpeg",
+    "status": "downloaded",
+    "bytes": 5862,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/MultiMedia__FaqMain__1728116984996.jpeg"
+  },
+  {
+    "url": "http://127.0.0.1/files/MultiMedia__MenusMain__1724062120712.jpg",
+    "page_paths": [
+      "/fa/restaurant"
+    ],
+    "alt": "رستوران های هتل اورین",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\restaurant\\رستوران-های-هتل-اورین-78207b2b8b66.jpg",
+    "status": "downloaded",
+    "bytes": 147703,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/MultiMedia__MenusMain__1724062120712.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Menu__669e6f38c00f8baaf071ee37__1724062167523.png",
+    "page_paths": [
+      "/fa/restaurant"
+    ],
+    "alt": "منو اصلی",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\restaurant\\منو-اصلی-30ee8194bda2.png",
+    "status": "downloaded",
+    "bytes": 490692,
+    "content_type": "image/png",
+    "fetch_url": "https://hotelavrin.ir/files/Menu__669e6f38c00f8baaf071ee37__1724062167523.png"
+  },
+  {
+    "url": "https://hotelavrin.ir/images/defaultImage.jpg",
+    "page_paths": [
+      "/fa/restaurant"
+    ],
+    "alt": "منو بیرون بر",
+    "source": "DOM:src",
+    "host": "hotelavrin.ir",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\restaurant\\منو-بیرون-بر-43b6e86d2fdc.jpg",
+    "status": "downloaded",
+    "bytes": 6246919,
+    "content_type": "image/jpeg"
+  },
+  {
+    "url": "http://127.0.0.1/files/MultiMedia__RoomsMain__1723455400222.jpg",
+    "page_paths": [
+      "/fa/rooms"
+    ],
+    "alt": "اتاق ها",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\اتاق-ها-9c536837debb.jpg",
+    "status": "downloaded",
+    "bytes": 187427,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/MultiMedia__RoomsMain__1723455400222.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__669e6c4dc00f8baaf071ebe2__1723444643535.jpg",
+    "page_paths": [
+      "/fa/rooms/single-room"
+    ],
+    "alt": "اتاق یک تخته",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\اتاق-یک-تخته-2b45afb94058.jpg",
+    "status": "downloaded",
+    "bytes": 17371751,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__669e6c4dc00f8baaf071ebe2__1723444643535.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__669e6c4dc00f8baaf071ebe2__1723444663951.jpg",
+    "page_paths": [
+      "/fa/rooms/single-room"
+    ],
+    "alt": "اتاق یک تخته",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\اتاق-یک-تخته-82ab123eb7f9.jpg",
+    "status": "downloaded",
+    "bytes": 18007669,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__669e6c4dc00f8baaf071ebe2__1723444663951.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__669e6c4dc00f8baaf071ebe2__1723444679410.jpg",
+    "page_paths": [
+      "/fa/rooms/single-room"
+    ],
+    "alt": "اتاق یک تخته",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\اتاق-یک-تخته-81792e81244a.jpg",
+    "status": "downloaded",
+    "bytes": 17138095,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__669e6c4dc00f8baaf071ebe2__1723444679410.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__669e6c4dc00f8baaf071ebe2__1723444700403.jpg",
+    "page_paths": [
+      "/fa/rooms/single-room"
+    ],
+    "alt": "اتاق یک تخته",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\اتاق-یک-تخته-b92249c931a3.jpg",
+    "status": "downloaded",
+    "bytes": 15840280,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__669e6c4dc00f8baaf071ebe2__1723444700403.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__669e6c4dc00f8baaf071ebe2__1724064346191.jpg",
+    "page_paths": [
+      "/fa/rooms/single-room"
+    ],
+    "alt": "اتاق یک تخته",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\اتاق-یک-تخته-b6384978e328.jpg",
+    "status": "downloaded",
+    "bytes": 19376348,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__669e6c4dc00f8baaf071ebe2__1724064346191.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__669e6d20c00f8baaf071ec1b__1723445777939.jpg",
+    "page_paths": [
+      "/fa/rooms/twinbeds-room"
+    ],
+    "alt": "دو تخته توئین",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\دو-تخته-توئین-7b7e40c607cb.jpg",
+    "status": "downloaded",
+    "bytes": 17837345,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__669e6d20c00f8baaf071ec1b__1723445777939.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__669e6d20c00f8baaf071ec1b__1724064369603.jpg",
+    "page_paths": [
+      "/fa/rooms/twinbeds-room"
+    ],
+    "alt": "دو تخته توئین",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\دو-تخته-توئین-2556e8b9f76c.jpg",
+    "status": "downloaded",
+    "bytes": 19376348,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__669e6d20c00f8baaf071ec1b__1724064369603.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__669e6d8ac00f8baaf071ec4e__1723447738644.jpg",
+    "page_paths": [
+      "/fa/rooms/double-room"
+    ],
+    "alt": "اتاق دوتخته دبل",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\اتاق-دوتخته-دبل-acace6e4360b.jpg",
+    "status": "downloaded",
+    "bytes": 17611424,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__669e6d8ac00f8baaf071ec4e__1723447738644.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__669e6d8ac00f8baaf071ec4e__1723447744571.jpg",
+    "page_paths": [
+      "/fa/rooms/double-room"
+    ],
+    "alt": "اتاق دوتخته دبل",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\اتاق-دوتخته-دبل-4e1c0e16d801.jpg",
+    "status": "downloaded",
+    "bytes": 17907907,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__669e6d8ac00f8baaf071ec4e__1723447744571.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__669e6d8ac00f8baaf071ec4e__1723447752472.jpg",
+    "page_paths": [
+      "/fa/rooms/double-room"
+    ],
+    "alt": "اتاق دوتخته دبل",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\اتاق-دوتخته-دبل-4ee657f7797b.jpg",
+    "status": "downloaded",
+    "bytes": 17335010,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__669e6d8ac00f8baaf071ec4e__1723447752472.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__669e6d8ac00f8baaf071ec4e__1724064393934.jpg",
+    "page_paths": [
+      "/fa/rooms/double-room"
+    ],
+    "alt": "اتاق دوتخته دبل",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\اتاق-دوتخته-دبل-56d6915863ce.jpg",
+    "status": "downloaded",
+    "bytes": 19376348,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__669e6d8ac00f8baaf071ec4e__1724064393934.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__66bb1b0d13a96f3f11ecb391__1724060076875.jpg",
+    "page_paths": [
+      "/fa/rooms/triple-room"
+    ],
+    "alt": "اتاق سه تخته",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\اتاق-سه-تخته-8fc2404d64e8.jpg",
+    "status": "downloaded",
+    "bytes": 19685507,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__66bb1b0d13a96f3f11ecb391__1724060076875.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__66bb1b0d13a96f3f11ecb391__1724060152562.jpg",
+    "page_paths": [
+      "/fa/rooms/triple-room"
+    ],
+    "alt": "اتاق سه تخته",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\اتاق-سه-تخته-8a46b5b00d7c.jpg",
+    "status": "downloaded",
+    "bytes": 19907237,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__66bb1b0d13a96f3f11ecb391__1724060152562.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__66bb1b0d13a96f3f11ecb391__1724064413751.jpg",
+    "page_paths": [
+      "/fa/rooms/triple-room"
+    ],
+    "alt": "اتاق سه تخته",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\اتاق-سه-تخته-96eda4a85ecc.jpg",
+    "status": "downloaded",
+    "bytes": 19376348,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__66bb1b0d13a96f3f11ecb391__1724064413751.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__66bdca7613a96f3f11edd103__1724064580619.jpg",
+    "page_paths": [
+      "/fa/rooms/twinbedsvip-room"
+    ],
+    "alt": "دو تخته توئین vip",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\دو-تخته-توئین-vip-1d2f430a5782.jpg",
+    "status": "downloaded",
+    "bytes": 197116,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__66bdca7613a96f3f11edd103__1724064580619.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__66bdca7613a96f3f11edd103__1724064584953.jpg",
+    "page_paths": [
+      "/fa/rooms/twinbedsvip-room"
+    ],
+    "alt": "دو تخته توئین vip",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\دو-تخته-توئین-vip-d53a0b1d4e4c.jpg",
+    "status": "downloaded",
+    "bytes": 165754,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__66bdca7613a96f3f11edd103__1724064584953.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__66bdca7613a96f3f11edd103__1724064605320.jpg",
+    "page_paths": [
+      "/fa/rooms/twinbedsvip-room"
+    ],
+    "alt": "دو تخته توئین vip",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\دو-تخته-توئین-vip-c84016485f61.jpg",
+    "status": "downloaded",
+    "bytes": 19376348,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__66bdca7613a96f3f11edd103__1724064605320.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__66bdc03913a96f3f11edc8c6__1724064468194.jpg",
+    "page_paths": [
+      "/fa/rooms/doublevip-room"
+    ],
+    "alt": "اتاق دوتخته دبل vip",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\اتاق-دوتخته-دبل-vip-ee7824a40383.jpg",
+    "status": "downloaded",
+    "bytes": 19376348,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__66bdc03913a96f3f11edc8c6__1724064468194.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__66bdc03913a96f3f11edc8c6__1724064482176.jpg",
+    "page_paths": [
+      "/fa/rooms/doublevip-room"
+    ],
+    "alt": "اتاق دوتخته دبل vip",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\اتاق-دوتخته-دبل-vip-cb2d409e6313.jpg",
+    "status": "downloaded",
+    "bytes": 18904522,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__66bdc03913a96f3f11edc8c6__1724064482176.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__66bdc03913a96f3f11edc8c6__1724064535153.jpg",
+    "page_paths": [
+      "/fa/rooms/doublevip-room"
+    ],
+    "alt": "اتاق دوتخته دبل vip",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\اتاق-دوتخته-دبل-vip-3c579668a413.jpg",
+    "status": "downloaded",
+    "bytes": 18064710,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__66bdc03913a96f3f11edc8c6__1724064535153.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__66bdcdc213a96f3f11edda47__1724064635133.jpg",
+    "page_paths": [
+      "/fa/rooms/triplevip-room"
+    ],
+    "alt": "اتاق سه تخته vip",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\اتاق-سه-تخته-vip-21cdb0228206.jpg",
+    "status": "downloaded",
+    "bytes": 177460,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__66bdcdc213a96f3f11edda47__1724064635133.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__66bdcdc213a96f3f11edda47__1724064642993.jpg",
+    "page_paths": [
+      "/fa/rooms/triplevip-room"
+    ],
+    "alt": "اتاق سه تخته vip",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\اتاق-سه-تخته-vip-f0a3a99ef378.jpg",
+    "status": "downloaded",
+    "bytes": 187427,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__66bdcdc213a96f3f11edda47__1724064642993.jpg"
+  },
+  {
+    "url": "http://127.0.0.1/files/Room__66bdcdc213a96f3f11edda47__1724064657608.jpg",
+    "page_paths": [
+      "/fa/rooms/triplevip-room"
+    ],
+    "alt": "اتاق سه تخته vip",
+    "source": "DOM:src",
+    "host": "127.0.0.1",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\rooms\\اتاق-سه-تخته-vip-78a938888296.jpg",
+    "status": "downloaded",
+    "bytes": 19376348,
+    "content_type": "image/jpeg",
+    "fetch_url": "https://hotelavrin.ir/files/Room__66bdcdc213a96f3f11edda47__1724064657608.jpg"
+  },
+  {
+    "url": "http://mupra.ir/merchantImage?mid=92852721",
+    "page_paths": [
+      "/shop/92852721"
+    ],
+    "alt": "",
+    "source": "HTML-embedded",
+    "host": "mupra.ir",
+    "local_file": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit\\01-assets\\restaurant\\image-cbe7b66635d5.img",
+    "status": "downloaded",
+    "bytes": 79033,
+    "content_type": "image/jpg;charset=UTF-8"
+  }
+]

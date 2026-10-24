@@ -1,0 +1,4 @@
+.brand{display:flex;flex-direction:column;align-items:center;line-height:1.05}
+.latin{font:500 25px/1 Estedad,serif;letter-spacing:.18em;color:var(--petrol)}
+.fa{font-size:10px;color:var(--muted);margin-top:7px}
+@media(max-width:767px){.latin{font-size:22px}.fa{font-size:9px;margin-top:5px}}

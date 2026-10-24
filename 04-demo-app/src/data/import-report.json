@@ -1,0 +1,18 @@
+{
+  "source": {
+    "rooms": 8,
+    "categories": 31,
+    "products": 244,
+    "mainSiteImages": 68
+  },
+  "runtime": {
+    "publicProducts": 234,
+    "publicCategories": 28,
+    "eligibleProductImages": 68,
+    "reviewProducts": 10,
+    "assets": 150
+  },
+  "placeholderHashBlocked": true,
+  "sourceRoot": "C:\\Users\\Reza\\Desktop\\Avrin_Demo_Kit",
+  "asOf": "2026-10-21"
+}
