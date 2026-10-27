@@ -109,3 +109,15 @@
  .cartLine{grid-template-columns:68px minmax(0,1fr);gap:10px}
  .cartLineActions{grid-column:2;flex-direction:row;align-items:center;justify-content:space-between}
 }
+
+/* A more polished, restrained motion layer for the presentation build */
+.scrollReveal{opacity:0;transform:translate3d(0,22px,0);transition:opacity .7s ease,transform .7s cubic-bezier(.2,.7,.2,1);will-change:opacity,transform}
+.scrollReveal.scrollRevealVisible{opacity:1;transform:translate3d(0,0,0);will-change:auto}
+.homeHero .heroPhoto .photoImage,.restaurantHeroImage .photoImage{animation:avrinHeroSettle 1.25s cubic-bezier(.2,.7,.2,1) both}
+.heroContent{animation:avrinContentEnter .8s .12s cubic-bezier(.2,.7,.2,1) both}
+.heroIndex{animation:avrinContentEnter .7s .35s cubic-bezier(.2,.7,.2,1) both}
+.photoImage{transition:transform .72s cubic-bezier(.2,.7,.2,1)}
+.photo:hover .photoImage{transform:scale(1.04)}
+@keyframes avrinHeroSettle{from{transform:scale(1.055);filter:brightness(.88)}to{transform:scale(1);filter:brightness(1)}}
+@keyframes avrinContentEnter{from{opacity:0;transform:translate3d(0,14px,0)}to{opacity:1;transform:translate3d(0,0,0)}}
+@media(prefers-reduced-motion:reduce){.scrollReveal,.scrollReveal.scrollRevealVisible,.heroContent,.heroIndex,.homeHero .heroPhoto .photoImage,.restaurantHeroImage .photoImage{animation:none;opacity:1;transform:none;filter:none;transition:none;will-change:auto}.photoImage{transition:none}}
